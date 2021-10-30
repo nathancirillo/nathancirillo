@@ -1,12 +1,7 @@
 ## Seja bem bem-vindo(a)!
 #### Sou o Nathan Cirillo. Desenvolvedor .NET, Professor Universitário e Apaixonado por Tecnologias. 
 ##
-<div align="center">
-  <a href="https://github.com/nathancirillo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathancirillo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancirillo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathancirillo&show_icons=true&theme=radical)](https://github.com/nathancirillo/github-readme-stats) 
 ## 
   
 <div style="display: inline_block"><br>
